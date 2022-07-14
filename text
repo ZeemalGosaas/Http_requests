@@ -1,0 +1,15 @@
+1: get request means client ko data chahiye
+2: post menas server py data upload krna hy
+    best way to hanle post request is to install postman
+    download the postman
+    postman helps to post request
+    body ko read krny k lconfiguration krni pry gi is k liye req aa rhi hy to beech mn koi aesa hona chaiye jo req ki body mn json bhja hy usy object mn convert kry java script k or req ki .body property set kr dy
+    is k liye middleware use krty hyn
+    middleware jo request aa rhi hy us sy wo json ko read kry ga or request.body naam ki jo property jo ho gi us k under us ko onject bana k save kr dy ga or usy bd  mn hm use kryn gy   
+
+3: put : is request mn data ko update krty hyn.
+        jb url likh k postman py serach kiya to id 1 mill gya mtlb read kr li id server py
+        ab is k bd search krna hy then data update krna hy.
+        data send ho ga body k sath postman mn
+
+4: delete: is request mn data ko delete krty hyn.
